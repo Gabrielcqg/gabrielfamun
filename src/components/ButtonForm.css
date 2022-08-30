@@ -1,0 +1,12 @@
+.buttonform {
+    background-color: #191970;
+    height: 40px;
+    padding: 0 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #ffffff;
+    cursor: pointer;
+    border: none;
+    position: fixed;
+    bottom: 10px;
+  }
